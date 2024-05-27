@@ -1,0 +1,15 @@
+/Users/marcelovalderramacorrea/Documents/projetos/first-steps-c/FirstSteps/bin/Debug/net8.0/FirstSteps
+/Users/marcelovalderramacorrea/Documents/projetos/first-steps-c/FirstSteps/bin/Debug/net8.0/FirstSteps.deps.json
+/Users/marcelovalderramacorrea/Documents/projetos/first-steps-c/FirstSteps/bin/Debug/net8.0/FirstSteps.runtimeconfig.json
+/Users/marcelovalderramacorrea/Documents/projetos/first-steps-c/FirstSteps/bin/Debug/net8.0/FirstSteps.dll
+/Users/marcelovalderramacorrea/Documents/projetos/first-steps-c/FirstSteps/bin/Debug/net8.0/FirstSteps.pdb
+/Users/marcelovalderramacorrea/Documents/projetos/first-steps-c/FirstSteps/obj/Debug/net8.0/FirstSteps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelovalderramacorrea/Documents/projetos/first-steps-c/FirstSteps/obj/Debug/net8.0/FirstSteps.AssemblyInfoInputs.cache
+/Users/marcelovalderramacorrea/Documents/projetos/first-steps-c/FirstSteps/obj/Debug/net8.0/FirstSteps.AssemblyInfo.cs
+/Users/marcelovalderramacorrea/Documents/projetos/first-steps-c/FirstSteps/obj/Debug/net8.0/FirstSteps.csproj.CoreCompileInputs.cache
+/Users/marcelovalderramacorrea/Documents/projetos/first-steps-c/FirstSteps/obj/Debug/net8.0/FirstSteps.sourcelink.json
+/Users/marcelovalderramacorrea/Documents/projetos/first-steps-c/FirstSteps/obj/Debug/net8.0/FirstSteps.dll
+/Users/marcelovalderramacorrea/Documents/projetos/first-steps-c/FirstSteps/obj/Debug/net8.0/refint/FirstSteps.dll
+/Users/marcelovalderramacorrea/Documents/projetos/first-steps-c/FirstSteps/obj/Debug/net8.0/FirstSteps.pdb
+/Users/marcelovalderramacorrea/Documents/projetos/first-steps-c/FirstSteps/obj/Debug/net8.0/FirstSteps.genruntimeconfig.cache
+/Users/marcelovalderramacorrea/Documents/projetos/first-steps-c/FirstSteps/obj/Debug/net8.0/ref/FirstSteps.dll
